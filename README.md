@@ -2,7 +2,11 @@
 
 A Streamlit-based machine learning web application that predicts possible health issues in animals based on symptoms and suggests suitable precautions.
 
----
+## 🖼️ Application Screenshot
+
+Below is a screenshot of the application's home page:
+
+![Home Page](home_page.png)
 
 ## 📌 Project Overview
 
