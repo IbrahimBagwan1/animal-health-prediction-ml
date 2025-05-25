@@ -87,26 +87,26 @@ chicken,egg production decreases,stunted growth,Blindness,Distinctive bumps,Faci
 chicken,loss of appetite,thirst,ruffled feathers,Closed eyes,Diarrhea,Yes
 cow,Fever,weakened legs,los of the ability to walk,Mammary glads,Fluif filled blisters,Yes
 cow,Fever,weakened legs,los of the ability to walk,Weight loss,Lameness,Yes
-cattle, abortion at the end of gestation,Fatigue,weak calves,Join pains,Swelling of internal organs,Yes
+Cow, abortion at the end of gestation,Fatigue,weak calves,Join pains,Swelling of internal organs,Yes
 mammal,swollen,red-colored ,hot udder,Milk getting out more watery,Milk getting out more thick,Yes
-Cattle,Fever,Distress,Trembling,Staggering,Convulsion,Yes
-Cattle,Fever,Animal become lame,Prostrat,Painfull Swalling,Lameness,Yes
-Cattle,Fever,Difficulty in breathing,Dribbling of saliva,Inability of Swalllon Feeding,Moist and painfull,Yes
-Cattle,Fluif Faeces on blood and muscle,Sudden Death,Blooody Fluid,Red Diarrhea,Faeces are streake with blood,Yes
-Cattle,Fever,Pneumonia ,Stand with head droping,Weight loss,Abnormal behaviour,Yes
-Cattle,Fever,Slightly Swollen,Lession on the skin,Milky Hard,Papules appear on teats anad udder,Yes
-Cattle,Fever,Dull,Hind quarted soil,Animal stop feed,Decrease in milk production,Yes
-Cattle,Severe,Diarrhea,Blood on faces,Appetite,Milk reduce,Yes
-Cattle,Fever,Depression,Relunctance to move,Salivation,Nasal Discharge,Yes
-Cattle,Normal appetite,Diarrhea,Swelling may occur under jaw,Weight loss,Drop in milk production,Yes
-Cattle,Swelling on leg,Heat,Hardness,Redness,Pain,Yes
-Cattle,Inability to stand ,Diarrhea,Bottle Jaw,Pot belly,Dry Hair coat,Yes
-Cattle,Excitability,Nervousness,loss of appetite,Hyper sensitivity,Weakness,Yes
-Cattle,Fever,Depression,Attack,Bite other animals,Pain,Yes
-Cattle,Fever,Difficulty in breathing,Coughing,Painfull,Eye become dull,Yes
-Cattle,Fever,Ulcer on gum,Red eye,Yellowish Discharge,Bloody Diarrhea,Yes
-Cattle,Fever,Diarrhea,Coughing,Consistency of milk,Pain,Yes
-Cattle,Animal gets uneasy,Difficulty in breathing,Difficult in respiration,Excessive production,Stamping And pedding of hind eye,Yes
+Cow,Fever,Distress,Trembling,Staggering,Convulsion,Yes
+Cow,Fever,Animal become lame,Prostrat,Painfull Swalling,Lameness,Yes
+Cow,Fever,Difficulty in breathing,Dribbling of saliva,Inability of Swalllon Feeding,Moist and painfull,Yes
+Cow,Fluif Faeces on blood and muscle,Sudden Death,Blooody Fluid,Red Diarrhea,Faeces are streake with blood,Yes
+Cow,Fever,Pneumonia ,Stand with head droping,Weight loss,Abnormal behaviour,Yes
+Cow,Fever,Slightly Swollen,Lession on the skin,Milky Hard,Papules appear on teats anad udder,Yes
+Cow,Fever,Dull,Hind quarted soil,Animal stop feed,Decrease in milk production,Yes
+Cow,Severe,Diarrhea,Blood on faces,Appetite,Milk reduce,Yes
+Cow,Fever,Depression,Relunctance to move,Salivation,Nasal Discharge,Yes
+Cow,Normal appetite,Diarrhea,Swelling may occur under jaw,Weight loss,Drop in milk production,Yes
+Cow,Swelling on leg,Heat,Hardness,Redness,Pain,Yes
+Cow,Inability to stand ,Diarrhea,Bottle Jaw,Pot belly,Dry Hair coat,Yes
+Cow,Excitability,Nervousness,loss of appetite,Hyper sensitivity,Weakness,Yes
+Cow,Fever,Depression,Attack,Bite other animals,Pain,Yes
+Cow,Fever,Difficulty in breathing,Coughing,Painfull,Eye become dull,Yes
+Cow,Fever,Ulcer on gum,Red eye,Yellowish Discharge,Bloody Diarrhea,Yes
+Cow,Fever,Diarrhea,Coughing,Consistency of milk,Pain,Yes
+Cow,Animal gets uneasy,Difficulty in breathing,Difficult in respiration,Excessive production,Stamping And pedding of hind eye,Yes
 Horse,Fever,Chills,Severe colic,Weakness,Anorexia,Yes
 Horse,Fever,Body stiffness,Lethargy,Severe inflammation,Pain,Yes
 Horse,Sickness,Diarrhea,Weight loss,Nausea,Dehydration,Yes
@@ -411,14 +411,14 @@ Reindeer,wasting,stumbling,listlessness,drooling,drooping ears,Yes
 Moos,wasting,stumbling,Fever,drooling,drooping ears,Yes
 Tiger,feline infections,lymphosarcoma,difficulty breating,stomatitis,anaemia,Yes
 Deer,sudden death,high temperature,difficulty breating,Weight loss,trembling,Yes
-Cattle,sudden death,high temperature,difficulty breating,Aneamia,trembling,Yes
+Cow,sudden death,high temperature,difficulty breating,Aneamia,trembling,Yes
 Goats,sudden death,high temperature,difficulty breating,Staggering,trembling,Yes
 Sheep,sudden death,high temperature,rapid pulse and heart rates,Depression,trembling,Yes
 Buffaloes,fever,loss of appetite,rapid pulse and heart rates,lameness in affected leg,depression,Yes
 Sheep,fever,loss of appetite,rapid pulse and heart rates,lameness in affected leg,depression,Yes
 Goats,fever,loss of appetite,rapid pulse and heart rates,lameness in affected leg,depression,Yes
-Cattle,fever,loss of appetite,swollen teats,lameness in affected leg,depression,Yes
-Cattle,swelling,nasal discharge,drooling,tiredness,fever,Yes
+Cow,fever,loss of appetite,swollen teats,lameness in affected leg,depression,Yes
+Cow,swelling,nasal discharge,drooling,tiredness,fever,Yes
 Sheep,eye discharges,nasal discharge,change their normal behaviour,high body temperature,lameness,Yes
 Dogs,stop eating,stop drinking,change their normal behaviour,Lameness,Pains,Yes
 Fox,stop eating,stop drinking,change their normal behaviour,Weight loss,Pains,Yes
